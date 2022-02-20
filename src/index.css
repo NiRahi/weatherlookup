@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("white-clouds-in-blue-sky-1178795.jpg");
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.container-fluid {
+  padding-top: 20px;
+}
+
+p {
+  font-size: large;
+  font-weight: bold;
 }
